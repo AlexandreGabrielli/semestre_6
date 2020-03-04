@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/geometry.h
+cmath
+-
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/model.h
+vector
+-
+geometry.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/geometry.h
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/tgaimage.h
+fstream
+-
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/zbuffering.cpp
+vector
+-
+array
+-
+cmath
+-
+limits
+-
+algorithm
+-
+tgaimage.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/tgaimage.h
+model.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/model.h
+geometry.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/5 - Texture-20200303/geometry.h
+

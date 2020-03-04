@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/2 - Dessiner un triangle-20200218/boite.cpp
+vector
+-
+cmath
+-
+iostream
+-
+array
+-
+tgaimage.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/2 - Dessiner un triangle-20200218/tgaimage.h
+geometry.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/2 - Dessiner un triangle-20200218/geometry.h
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/2 - Dessiner un triangle-20200218/geometry.h
+cmath
+-
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/2 - Dessiner un triangle-20200218/tgaimage.h
+fstream
+-
+

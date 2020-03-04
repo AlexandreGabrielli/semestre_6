@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TR2020"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OnePoint">
+				<Option output="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/OnePoint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 OnePoint"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OnePoint/fast">
+				<Option output="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/OnePoint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 OnePoint/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WireFrame">
+				<Option output="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/WireFrame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 WireFrame"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WireFrame/fast">
+				<Option output="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/WireFrame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 WireFrame/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OneLine">
+				<Option output="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/OneLine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 OneLine"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OneLine/fast">
+				<Option output="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/OneLine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/."/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-win32-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 OneLine/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/OneLine.cpp">
+			<Option target="OneLine"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/OnePoint.cpp">
+			<Option target="OnePoint"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/WireFrame.cpp">
+			<Option target="WireFrame"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/line.cpp">
+			<Option target="WireFrame"/>
+			<Option target="OneLine"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/line.h">
+			<Option target="WireFrame"/>
+			<Option target="OneLine"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/model.cpp">
+			<Option target="WireFrame"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/model.h">
+			<Option target="WireFrame"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/tgaimage.cpp">
+			<Option target="OnePoint"/>
+			<Option target="WireFrame"/>
+			<Option target="OneLine"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/tgaimage.h">
+			<Option target="OnePoint"/>
+			<Option target="WireFrame"/>
+			<Option target="OneLine"/>
+		</Unit>
+		<Unit filename="C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/line.cpp
+ntdef.h
+-
+line.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/line.h
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/line.h
+tgaimage.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/tgaimage.h
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/1 - Dessiner une ligne-20200218/tgaimage.h
+fstream
+-
+
