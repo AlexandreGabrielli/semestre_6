@@ -1,6 +1,6 @@
 backcall==0.1.0
 bitarray==0.8.3
-bleach==3.1.0
+bleach==3.1.1
 certifi==2018.11.29
 deap==1.2.2
 decorator==4.3.0
