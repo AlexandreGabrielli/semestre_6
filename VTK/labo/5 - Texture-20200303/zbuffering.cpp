@@ -99,6 +99,7 @@ int main(int argc, char **argv) {
         Vec3f camera = {0, 0, -1};
 
         float I = (n * camera);
+
         if (I > 0) {
             triangle(t, image, tt, pixels,I);
         }

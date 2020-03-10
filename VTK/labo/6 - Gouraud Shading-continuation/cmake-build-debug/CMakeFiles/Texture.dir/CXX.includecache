@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/geometry.h
+cmath
+-
+ostream
+-
+array
+-
+assert.h
+-
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/model.h
+vector
+-
+geometry.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/geometry.h
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/texture.cpp
+vector
+-
+string
+-
+array
+-
+cmath
+-
+limits
+-
+iostream
+-
+tgaimage.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/tgaimage.h
+model.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/model.h
+geometry.h
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/geometry.h
+
+C:/Users/Alexandre/Documents/cours/semestre_6/VTK/labo/6 - Gouraud Shading-continuation/tgaimage.h
+fstream
+-
+
