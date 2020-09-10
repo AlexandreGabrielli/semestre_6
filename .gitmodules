@@ -4,3 +4,18 @@
 [submodule "VTK/VTK_Lab00"]
 	path = VTK/VTK_Lab00
 	url = git@github.com:AlexandreGabrielli/VTK_Lab00.git
+[submodule "VTK/VTK_Lab01"]
+	path = VTK/VTK_Lab01
+	url = git@github.com:AlexandreGabrielli/VTK_Lab01.git
+[submodule "VTK/VTK_Lab02"]
+	path = VTK/VTK_Lab02
+	url = git@github.com:AlexandreGabrielli/VTK_Lab02.git
+[submodule "VTK/vtk_LAB03"]
+	path = VTK/vtk_LAB03
+	url = git@github.com:AlexandreGabrielli/vtk_LAB03.git
+[submodule "VTK/VTK_Lab04"]
+	path = VTK/VTK_Lab04
+	url = git@github.com:AlexandreGabrielli/VTK_Lab04.git
+[submodule "VTK/VTK_Lab05"]
+	path = VTK/VTK_Lab05
+	url = git@github.com:AlexandreGabrielli/VTK_Lab05.git
