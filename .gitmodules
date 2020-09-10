@@ -1,0 +1,3 @@
+[submodule "segfault"]
+	path = segfault
+	url = https://gitlab.com/alexandre.gabrielli/segfault.git
